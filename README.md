@@ -5,6 +5,7 @@
 >由于button有高光, 最好用label或view来当按钮, userInteractionEnabled和clipsToBounds要改为true
 
 main.js里是一个用view套的按钮实例, 并在点击后按钮标题改变
+![GN5pOx.gif](https://s1.ax1x.com/2020/04/03/GN5pOx.gif)
 
 # 属性&方法
 
